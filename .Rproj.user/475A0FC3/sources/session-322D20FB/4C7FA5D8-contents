@@ -1,0 +1,38 @@
+---
+title: "CERF"
+author: "ZMRS"
+date: '2023-11-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1 Upload Library
+
+```{r}
+
+```
+
+
+## 2 Upload Data
+
+```{r}
+library(readxl)
+CERF_RawData_23 <- read_excel("Data/CERF_RawData_23.xlsx")
+View(CERF_RawData_23)
+```
+
+## 3 Plots
+
+```{r}
+
+```
+
+## 4 ANOVA
+
+```{r}
+
+```
+
