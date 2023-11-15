@@ -3,7 +3,7 @@
     "path": "~/GitHub/CERF-SM-VA/CERF.Rmd",
     "project_path": "CERF.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1633982924",
     "contents": "",
     "dirty": false,
     "created": 1699804290780.0,
@@ -13,16 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "35,0",
-        "scrollLine": "21",
-        "last_setup_crc32": "322D20FBbb338d19"
+        "cursorPosition": "26,0",
+        "scrollLine": "23",
+        "last_setup_crc32": "E2C4C8FCbb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699804624,
+    "lastKnownWriteTime": 1700034112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699804624381,
+    "last_content_update": 1700034112713,
     "read_only": false,
     "read_only_alternatives": []
 }

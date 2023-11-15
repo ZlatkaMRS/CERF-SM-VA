@@ -1,0 +1,4 @@
+"0","intersectionSi <- aov(CarbonEstimate_g.m2 ~ SiteCODE / Section / SizeCat, data = BGBM)"
+"2","Error in terms.formula(formula, ""Error"", data = data) : 
+  object 'BGBM' not found
+"
